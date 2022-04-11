@@ -1,0 +1,2 @@
+//Start welcome message
+console.log("Welcome to Employee Wage Computation Program");
